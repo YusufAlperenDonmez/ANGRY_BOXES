@@ -13,7 +13,7 @@ The application demonstrates the following core features:
 
 Watch the full demonstration on YouTube:
 
-👉 [Click here to watch the demo video]()
+👉 [Click here to watch the demo video](https://youtube.com/shorts/AOfZLW7tZBc)
 
 ## 🧑‍💻 Technologies Used
 
